@@ -1,0 +1,7 @@
+C:\Users\smomi\source\repos\DelegateTypes\DelegateTypes\bin\Debug\DelegateTypes.exe.config
+C:\Users\smomi\source\repos\DelegateTypes\DelegateTypes\bin\Debug\DelegateTypes.exe
+C:\Users\smomi\source\repos\DelegateTypes\DelegateTypes\bin\Debug\DelegateTypes.pdb
+C:\Users\smomi\source\repos\DelegateTypes\DelegateTypes\obj\Debug\DelegateTypes.csproj.AssemblyReference.cache
+C:\Users\smomi\source\repos\DelegateTypes\DelegateTypes\obj\Debug\DelegateTypes.csproj.CoreCompileInputs.cache
+C:\Users\smomi\source\repos\DelegateTypes\DelegateTypes\obj\Debug\DelegateTypes.exe
+C:\Users\smomi\source\repos\DelegateTypes\DelegateTypes\obj\Debug\DelegateTypes.pdb
